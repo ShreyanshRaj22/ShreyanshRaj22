@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshraj22&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshraj22" /> </p>
 
-- 🌱 I’m currently learning **MySQL, EJS**
+- 🌱 I’m currently learning **Kubernetes, AWS, Jenkins**
 
-- 💬 Ask me about **Competetive Programming**
+- 💬 Ask me about **System Design**
 
 - 📫 How to reach me **211230051@nitdelhi.ac.in**
 
