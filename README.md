@@ -1,4 +1,4 @@
-<img alt="banner" src="/assets//banner.png">
+<img alt="banner" src="/assets//bannerImg.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshraj22&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshraj22" /> </p>
 
