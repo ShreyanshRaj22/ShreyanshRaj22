@@ -20,14 +20,14 @@
 
 <div style="width:100%; height:1px; background-color:#E0E0E0;"></div>
 
-<div>
+<div style="width: 40%"> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshraj22&show_icons=true&locale=en&layout=compact" alt="shreyanshraj22" /></p>
 </div>
 
 
 <div style="width:100%; height:1px; background-color:#E0E0E0;"></div>
 
-<div>
+<div style="width:70%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" /></p>
 </div>
 
