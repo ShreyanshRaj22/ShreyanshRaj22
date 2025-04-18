@@ -26,9 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" /></p>
 
-### 🔥 Contribution Snake
 
-![Fiery Snake](https://raw.githubusercontent.com/ShreyanshRaj22/ShreyanshRaj22/output/ocean.gif)
+![Fiery Snake](https://raw.githubusercontent.com/ShreyanshRaj22/ShreyanshRaj22/output/fiery.gif)
+
 
 
 
