@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyanshraj22&show_icons=true&locale=en" alt="shreyanshraj22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" /></p>
+
+### 🔥 Contribution Snake
+
+![Fiery Snake](https://raw.githubusercontent.com/ShreyanshRaj22/ShreyanshRaj22/output/github-contribution-grid-snake-dark.svg?palette=flaming)
