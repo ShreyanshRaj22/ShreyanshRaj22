@@ -20,9 +20,9 @@
 <h1> Stats for nerds: </h1>
 
 <div style="display: flex; width: 100%; gap: 10px">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" style="height: 150px;" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" style="height: 200px;" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshraj22&show_icons=true&locale=en&layout=compact" alt="shreyanshraj22" style="height: 150px;" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshraj22&show_icons=true&locale=en&layout=compact" alt="shreyanshraj22" style="height: 200px;" /></p>
 
 </div>
 
