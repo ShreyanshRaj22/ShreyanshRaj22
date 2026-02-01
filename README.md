@@ -6,25 +6,22 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
+- Learning Java again for backend dev. 
 
-- I am an active TS developer trying C for better fundamentals 
+- I was an active TS developer trying C for better fundamentals 
 
 - Public Contributions are looking thin, working on changing that 
 
-- Currently making MyGit clone in C as a reimplementation, would love some custom features
-
-- Making CLIs to avoid as much UI as I can 
-
-- Todo: Making a JS library for backend profiling
+- Todo: Contribute of ElasticSearch meaningfully.
 
 <h1> Stats for nerds: </h1>
 
-<div style="display: flex; width: 100%; gap: 10px">
+<!-- <div style="display: flex; width: 100%; gap: 10px">
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshraj22&" alt="shreyanshraj22" style="height: 200px;" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyanshraj22&show_icons=true&locale=en&layout=compact" alt="shreyanshraj22" style="height: 200px;" /></p>
 
-</div>
+</div> -->
 
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyanshRaj22&theme=github" alt="Shreyansh Raj's GitHub Achievements" />
